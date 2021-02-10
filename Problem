@@ -1,0 +1,32 @@
+TASK: Zip Code Targeting
+
+[Context]
+
+The Growth team is looking to launch a new marketing campaign and they need your help visualizing Block’s serviceable zip codes in the New York area and selecting the top 10 zip codes to run a pilot test for this campaign. The goal of the pilot is to benchmark performance of the new campaign against Block’s active campaigns to test whether the new strategy is effective with existing audiences in Block’s top service-areas. 
+
+You have access to the following data (see “_zip code data.xlsx”). Please limit your scope to this data set only and refrain from using external data sources.
+
+1.	Zip Code
+2.	Zip Code status 
+3.	Lead
+4.	Conversions
+
+Block segments zip codes into 3 statuses (Serviceable, Not serviceable and Escalate). The Leads column sums the number of potential customers that have completed the online survey on Block’s website. The conversions column sums the number of customers who have agreed to use Block for their renovation. 
+
+
+
+[Deliverable]
+
+The Growth team would like you to help build the following:
+
+1.	Tableau map of New York area zip codes 
+a.	“Non-serviceable” zip codes should be greyed out
+b.	“Escalate” zip codes should be colored yellow
+c.	“Serviceable” zip codes should be colored green. Bonus for displaying serviceable zip codes as a heat map based on the number of leads from that zip code.
+2.	List of top 10 zip codes that you recommend for the Growth team’s pilot test 
+a.	Along with a list of top 10 zip codes, please provide a methodology for how you came to your recommendation. This methodology can be written in any form (e.g., paragraph, bullet) and should be concise and direct. 
+
+
+Please submit deliverable 1 (Tableau map) as a .twbx file. 
+
+Please submit deliverable 2 as a Microsoft Office or Google Suite file.
